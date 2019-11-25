@@ -1,0 +1,28 @@
+Informaci\'on relacionada con mi programa para realizar 
+conteos din\'amicos.
+
+Ubicaci\'on local de la versi\'on m\'as reciente del programa:
+C:\Usuarios\LMC\2018\CARP_COMPARTIDA_TI_DCpp\CONTEOS_DINAMICOS\00_espaciodetrabajo\Ventanas
+
+Ubicaci\'on remota de la versi\'on m\'as reciente del programa:
+https://github.com/upiitacodelamberto/conteosdinamicosyrapidos
+
+Maquina virtual de Virtualbox en la que hice pruebas hoy 2018.10.10:
+Win7_ToInstall_DevCpp
+En el sistema de archivos (en el archivo vdi del disco de la m\'aquina 
+virtual) de esta m\'aquina virtual, dos archivos utilizados para pruebas 
+del programa que realiza conteos din\'amicos, los archivos 
+MEX_GOB_2017.csv y MEX_GOB_2017_ordenado_00001_00500.csv
+est\'an ubicados en el directorio C:\Users\beto\
+
+Con fecha Mi\'ercoles 7 de noviembre de 2018 hago una copia de estos 
+archivos al directorio 
+C:\Users\LMC\2018\99_NOTAS_PARA_TESIS\TRASLADANDO_ARCHIVOS_DPRUEBA_CONTDINs\
+del disco duro de la m\'aquina f\'isica (Laptop) DELL.
+
+Con fecha Mi\'ercoles 7 de nociembre de 2018, por comodidad (durante el uso 
+del programa de conteos din\'amicos -usando Eclipse Oxygen-- en lap DELL),
+tambi\'en coloqu\'e una copia de estos dos archivos en el direcrorio
+C:\Users\LMC\Documents\
+de la m\'aquina f\'isica (Laptop) DELL.
+
